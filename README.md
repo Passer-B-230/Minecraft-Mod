@@ -7,3 +7,6 @@
 增加了手枪与弹药
 增加了地雷
 修改了鸡的皮肤与受击音效
+Minecraft Java 版：26.3
+Fabric Loader：0.19.5
+Fabric API：0.161.0+26.3
