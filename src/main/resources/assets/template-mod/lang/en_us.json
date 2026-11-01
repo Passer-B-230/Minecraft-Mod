@@ -1,0 +1,23 @@
+{
+  "item.template-mod.ruby": "Ruby",
+  "item.template-mod.poisonous_apple": "Poisonous Apple",
+  "enchantment.template-mod.explosive": "Explosive",
+  "enchantment.template-mod.lifesteal": "Lifesteal",
+  "item.template-mod.throwing_knife": "Throwing Knife",
+  "item.template-mod.pistol": "Black Pixel Pistol",
+  "item.template-mod.bullet": "Pistol Bullet",
+  "block.template-mod.landmine": "Landmine",
+  "message.template-mod.pistol.no_ammo": "Magazine empty! Hold Shift + right click to reload.",
+  "message.template-mod.pistol.ammo": "Magazine: %1$s / %2$s",
+  "message.template-mod.pistol.infinite_ammo": "Creative mode: infinite ammunition",
+  "message.template-mod.pistol.magazine_full": "Magazine is full.",
+  "message.template-mod.pistol.no_reserve": "No pistol bullets in your inventory.",
+  "message.template-mod.pistol.reloading": "Reloading... Hold right click for 1.5 seconds.",
+  "message.template-mod.pistol.reloaded": "Reloaded: %1$s / %2$s",
+  "message.template-mod.pistol.reload_cancelled": "Reload cancelled.",
+  "tooltip.template-mod.pistol.reload": "Hold right click to aim; left click to fire; hold Shift + right click for 1.5s to reload",
+  "death.attack.template_mod_bullet": "%1$s was shot by %2$s",
+  "death.attack.template_mod_bullet.player": "%1$s was shot by %2$s",
+  "enchantment.template-mod.quick_throw": "Quick Throw",
+  "enchantment.template-mod.multishot_throw": "Multishot Throw"
+}

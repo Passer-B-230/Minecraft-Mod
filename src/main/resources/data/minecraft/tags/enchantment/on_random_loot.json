@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "template-mod:explosive",
+    "template-mod:lifesteal",
+    "template-mod:quick_throw",
+    "template-mod:multishot_throw"
+  ]
+}

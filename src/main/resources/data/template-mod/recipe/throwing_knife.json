@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:stick",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "template-mod:throwing_knife",
+    "count": 1
+  }
+}

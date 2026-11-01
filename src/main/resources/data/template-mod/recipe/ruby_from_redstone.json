@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RR",
+    "RR"
+  ],
+  "key": {
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "template-mod:ruby",
+    "count": 1
+  }
+}

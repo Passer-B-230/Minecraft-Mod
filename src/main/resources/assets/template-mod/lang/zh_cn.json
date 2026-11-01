@@ -1,0 +1,23 @@
+{
+  "item.template-mod.ruby": "紫色粉末",
+  "item.template-mod.poisonous_apple": "毒苹果",
+  "enchantment.template-mod.explosive": "爆炸",
+  "enchantment.template-mod.lifesteal": "吸血",
+  "item.template-mod.throwing_knife": "飞刀",
+  "item.template-mod.pistol": "黑色像素手枪",
+  "item.template-mod.bullet": "手枪子弹",
+  "block.template-mod.landmine": "地雷",
+  "message.template-mod.pistol.no_ammo": "弹匣已空！按住 Shift + 右键换弹。",
+  "message.template-mod.pistol.ammo": "弹匣：%1$s / %2$s",
+  "message.template-mod.pistol.infinite_ammo": "创造模式：无限弹药",
+  "message.template-mod.pistol.magazine_full": "弹匣已满。",
+  "message.template-mod.pistol.no_reserve": "背包中没有手枪子弹。",
+  "message.template-mod.pistol.reloading": "正在换弹……保持按住右键 1.5 秒。",
+  "message.template-mod.pistol.reloaded": "换弹完成：%1$s / %2$s",
+  "message.template-mod.pistol.reload_cancelled": "换弹已取消。",
+  "tooltip.template-mod.pistol.reload": "右键瞄准，左键开火；按住 Shift + 右键 1.5 秒换弹",
+  "death.attack.template_mod_bullet": "%1$s 被 %2$s 开枪击杀",
+  "death.attack.template_mod_bullet.player": "%1$s 被 %2$s 开枪击杀",
+  "enchantment.template-mod.quick_throw": "快速投掷",
+  "enchantment.template-mod.multishot_throw": "多重投掷"
+}

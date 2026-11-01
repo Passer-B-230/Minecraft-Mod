@@ -1,0 +1,29 @@
+{
+  "entity.chicken.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.chicken.hurt",
+    "sounds": [
+      {"name": "template-mod:chicken_hurt_low", "weight": 1},
+      {"name": "template-mod:chicken_hurt", "weight": 1},
+      {"name": "template-mod:chicken_hurt_high", "weight": 1}
+    ]
+  },
+  "entity.chicken_picky.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.chicken.hurt",
+    "sounds": [
+      {"name": "template-mod:chicken_hurt_low", "weight": 1},
+      {"name": "template-mod:chicken_hurt", "weight": 1},
+      {"name": "template-mod:chicken_hurt_high", "weight": 1}
+    ]
+  },
+  "entity.baby_chicken.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.chicken.hurt",
+    "sounds": [
+      {"name": "template-mod:chicken_hurt_low", "weight": 1},
+      {"name": "template-mod:chicken_hurt", "weight": 1},
+      {"name": "template-mod:chicken_hurt_high", "weight": 1}
+    ]
+  }
+}
