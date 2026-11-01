@@ -1,9 +1,9 @@
-# Template Mod
-
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# Minecraft-Mod
+使用Frabric由Agent开发的简单Mod
+增加了毒苹果
+增加了飞刀与相关附魔
+增加了吸血附魔
+增加了爆炸弓附魔
+增加了手枪与弹药
+增加了地雷
+修改了鸡的皮肤与受击音效
